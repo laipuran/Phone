@@ -1,0 +1,2 @@
+ShowDeleteRegedit = true
+Password = 070714lprlpr<?
