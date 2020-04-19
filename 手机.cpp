@@ -2,7 +2,7 @@
     Author:赖朴然
     Last Edit:2020.3.31
     E-mail:1696095803@qq.com
-    Vesion:1.1 Debug
+    Vesion:1.0 Debug
     Github:Lpuran
     Information:A simple phone, build on C++ Console app.
 */
